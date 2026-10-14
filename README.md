@@ -1,18 +1,30 @@
- <div align="center">
+
+<div align="center">
 
 # AYUSH RAJ
 
-### AI/ML Engineer · Researcher · Software Developer
+### AI/ML Engineer | Researcher | Software Developer
 
-<a href="https://ayush-raj-portfolio-website.vercel.app/"><strong>Portfolio</strong></a> · <a href="https://github.com/ayushrajcodes0407">GitHub</a> · <a href="https://www.linkedin.com/in/ayushraj-tech/">LinkedIn</a> · <a href="mailto:ayushrajcodes0407@gmail.com">Email</a>
+<a href="https://ayush-raj-portfolio-website.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-64DDA0?style=for-the-badge&logo=vercel&logoColor=101418" alt="Portfolio"/>
+</a>
+<a href="https://github.com/ayushrajcodes0407">
+  <img src="https://img.shields.io/badge/GITHUB-Projects-202020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/ayushraj-tech/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ayushrajcodes0407@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact-BB4B45?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=64DDA0&center=true&vCenter=true&width=750&height=55&lines=Building+practical+AI+applications;Researching+machine+learning+and+NLP;Exploring+LLMs%2C+RAG+and+computer+vision;Turning+ideas+into+working+software" alt="Animated introduction"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=64DDA0&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real+problems;Exploring+Machine+Learning+%26+Generative+AI;Turning+research+into+working+systems;Engineering+products+from+idea+to+deployment" alt="Typing animation introducing Ayush Raj" />
-
-<br/>
-
-*I build intelligent systems, explore research questions, and turn ideas into useful software.*
+**Computer Science & Engineering | BIT Mesra**
 
 </div>
 
@@ -20,44 +32,94 @@
 
 ## About Me
 
-I'm a Computer Science and Engineering student at **Birla Institute of Technology, Mesra**, interested in the intersection of artificial intelligence, research, and software engineering.
+I'm a Computer Science and Engineering student at **BIT Mesra**, interested in building useful AI systems and understanding how they work beyond the prototype.
 
-Most of my work starts with a question: can we make this system more useful, more reliable, or easier to understand? Sometimes that leads to a machine learning experiment. Other times, it means building an entire application around a model so people can actually use it.
+My work spans machine learning, computer vision, natural language processing, generative AI, data science, and full-stack development. I enjoy combining research with engineering to turn technical ideas into applications people can actually use.
 
-My current interests include machine learning, generative AI, retrieval-augmented generation, natural language processing, computer vision, and intelligent data products.
+I'm particularly interested in:
 
-- **Building:** AI applications, data analysis tools, and full-stack products.
-- **Researching:** Decision intelligence, risk-aware machine learning, and transformer-based NLP.
-- **Exploring:** LLM applications, RAG pipelines, explainable AI, and practical ML deployment.
-- **Open to:** AI/ML engineering opportunities, research collaborations, and meaningful open-source projects.
+- Machine learning and deep learning
+- Large language models and retrieval-augmented generation
+- Natural language processing and transformer architectures
+- Computer vision and intelligent automation
+- Data science and decision-support systems
+- Research-driven AI product development
 
-I value clean engineering, reproducible experiments, honest evaluation, and software that solves a real problem.
+I'm always interested in thoughtful collaborations, challenging engineering problems, and opportunities to learn from people working on meaningful technology.
 
-## Selected Projects
+## Research Experience
 
-<div align="center">
+### Research Intern | Norwegian University of Science and Technology (NTNU), Norway
+
+**Summer Research Internship | May 6 – July 26, 2026**
+
+Worked under the supervision of **Dr. Alok Mishra**, Professor of Data Management and Software Engineering, on research involving AI, natural language processing, and risk-aware transformer-based screening.
+
+**Research focus:**
+- Transformer-based NLP
+- Risk-aware machine learning
+- Early screening from social-media text
+- Mental-health classification research
+- Experimental evaluation of AI models
+
+This experience strengthened my interest in research-oriented machine learning and the development of responsible, carefully evaluated AI systems.
+
+## Research & Upcoming Conference Paper
+
+### A Two-Stage, Risk-Aware Transformer Framework for Early Screening of Mental-Health Conditions and Suicidal Ideation in Social-Media Text
+
+Research exploring a two-stage transformer-based approach to textual screening, with an emphasis on risk-aware classification and early identification of potentially concerning language.
+
+**Research areas:** NLP · Transformers · Risk-Aware AI · Mental-Health Text Analysis
+
+**Conference:** Planned for the 3rd International Conference on Intelligent Systems & Security (2027).
+
+**Status:** Upcoming conference paper / research manuscript. Conference acceptance and publication are not claimed here.
+
+### Artificial Wisdom
+
+**Context-Aware Decision Intelligence Framework for Loan Approval Prediction**
+
+Research exploring how machine learning, contextual information, and retrieval-based reasoning can be combined to support more informed loan approval decisions.
+
+**Focus:** Machine Learning · RAG · Decision Intelligence · Explainable AI
+
+**Status:** Research in progress.
+
+### HRA-Mental-RoBERTa
+
+**Hierarchical Risk-Aware Mental-RoBERTa Framework for Early Multi-Class Screening of Mental-Health Conditions and Suicidal Ideation**
+
+An ongoing research framework investigating hierarchical and risk-aware transformer approaches for multi-class screening from textual data.
+
+**Focus:** NLP · RoBERTa · Transformer Models · Risk-Aware Classification
+
+**Status:** Ongoing research.
+
+---
+
+## Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Artificial Wisdom
 
-A research-driven decision intelligence framework exploring how machine learning, contextual information, and retrieval-based reasoning can work together for loan approval prediction.
+A research-driven AI framework exploring contextual reasoning and retrieval-based knowledge for loan approval decision support.
 
-**Focus:** Machine learning, RAG, decision support, model evaluation.
-
-**Status:** Research in progress.
+**Technologies:** Python, machine learning, RAG
 
 </td>
 <td width="50%" valign="top">
 
 ### Data Sarthi
 
-An AI-powered data analysis and data-quality platform designed to help users profile datasets, perform exploratory analysis, investigate data issues, visualize patterns, and generate useful insights.
+An AI-powered data analysis and quality platform for dataset profiling, exploratory analysis, data cleaning, visualization, and insight generation.
 
-**Focus:** Python, data science, EDA, visualization, AI-assisted analysis.
+<a href="https://github.com/ayushrajcodes0407/data_sarthi">View Repository →</a>
 
-[Explore the repository](https://github.com/ayushrajcodes0407/data_sarthi)
+**Technologies:** Python, Pandas, NumPy, Streamlit
 
 </td>
 </tr>
@@ -66,152 +128,125 @@ An AI-powered data analysis and data-quality platform designed to help users pro
 
 ### JARVIS Voice Assistant
 
-A local voice assistant combining speech recognition, wake-word detection, voice interaction, computer vision, and desktop automation.
+A local voice assistant featuring wake-word detection, speech recognition, voice interaction, computer vision, and desktop automation.
 
-Built around the idea of making everyday computer interaction more natural and responsive.
+<a href="https://github.com/ayushrajcodes0407/Jarvis-Voice-Assistant">View Repository →</a>
 
-**Focus:** Python, speech recognition, OpenCV, automation.
-
-[Explore the repository](https://github.com/ayushrajcodes0407/Jarvis-Voice-Assistant)
+**Technologies:** Python, Speech Recognition, OpenCV
 
 </td>
 <td width="50%" valign="top">
 
 ### HRA-Mental-RoBERTa
 
-A research framework investigating hierarchical and risk-aware transformer approaches for early multi-class screening of mental-health conditions and suicidal ideation from textual data.
+A research framework investigating risk-aware transformer models for multi-class screening from textual data.
 
-**Focus:** NLP, transformers, RoBERTa, risk-aware modelling.
-
-**Status:** Ongoing research.
+**Technologies:** Python, NLP, Transformers, RoBERTa
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### BE11 — Sports Technology Platform
+### BE11 | Sports Technology Platform
 
-A full-stack sports platform covering venue discovery and booking, real-time match experiences, live scoring, 3D jersey customization, vendor onboarding, and payment workflows.
+A full-stack platform for venue discovery and booking, real-time match experiences, live scoring, 3D jersey customization, vendor onboarding, and payment workflows.
 
-**Focus:** React, TypeScript, Node.js, PostgreSQL, Prisma, Socket.IO, Razorpay.
+<a href="https://github.com/ayushrajcodes0407/be11">View Repository →</a>
 
-[Explore the repository](https://github.com/ayushrajcodes0407/be11)
+**Technologies:** React, TypeScript, Node.js, PostgreSQL, Prisma, Socket.IO, Razorpay
 
 </td>
 <td width="50%" valign="top">
 
 ### Vision-Based PPE Compliance
 
-A computer-vision project developed during my internship at Bharat Coking Coal Limited to detect personal protective equipment in industrial environments.
+A computer-vision system developed during my BCCL internship to detect personal protective equipment in industrial environments using YOLO-based object detection.
 
-The reported training dataset contained more than 5,000 annotated images.
-
-**Focus:** YOLO, computer vision, OpenCV, Python, Flask.
+**Technologies:** Python, YOLO, OpenCV, Flask
 
 </td>
 </tr>
 </table>
-</div>
 
-## Research & Publications
-
-My research interests centre on practical AI systems, decision intelligence, and risk-aware machine learning. I am developing research manuscripts in the following areas.
-
-### 01. Artificial Wisdom
-
-**Context-Aware Decision Intelligence Framework for Loan Approval Prediction**
-
-Explores the combination of traditional machine learning, contextual information, and retrieval-based reasoning for loan approval decision support.
-
-*Status: Research in progress.*
-
-### 02. Risk-Aware Transformer Framework
-
-**A Two-Stage, Risk-Aware Transformer Framework for Early Screening of Mental-Health Conditions and Suicidal Ideation in Social-Media Text**
-
-Investigates transformer-based NLP methods for multi-stage screening and risk-aware classification of textual data.
-
-*Status: Manuscript / research in progress.*
-
-### 03. HRA-Mental-RoBERTa
-
-**Hierarchical Risk-Aware Mental-RoBERTa Framework for Early Multi-Class Screening of Mental-Health Conditions and Suicidal Ideation**
-
-Investigates hierarchical modelling and risk-aware transformer approaches for text-based screening.
-
-*Status: Ongoing research.*
-
-I will add publication links and conference or journal details when they are confirmed. The work listed above should not be interpreted as accepted or published unless explicitly marked as such.
-
-## Experience
-
-### Product Engineering & Data Science Intern
-**Vacation Mantra Technologies Pvt. Ltd.**
-
-Worked on software engineering, data-driven applications, and product development, connecting analytical workflows with practical software solutions.
-
-### Machine Learning & Computer Vision Intern
-**Bharat Coking Coal Limited (BCCL)**
-
-Worked on computer vision for industrial applications, including a YOLO-based PPE compliance system developed using more than 5,000 annotated images and a Flask-based application.
+---
 
 ## Technical Skills
 
-**Programming**  
-Python · C++ · C · Java · JavaScript · TypeScript · SQL
+### Programming Languages
 
-**Machine Learning & Data Science**  
-PyTorch · TensorFlow · Keras · Scikit-learn · NumPy · Pandas · SciPy · Matplotlib · Plotly
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css&theme=dark" alt="Programming languages"/>
+</p>
 
-**Generative AI & NLP**  
-LLM applications · RAG · FAISS · Sentence Transformers · Transformer architectures · Explainable AI
+### AI, Machine Learning & Data Science
 
-**Computer Vision**  
-OpenCV · YOLO · Image processing · Face recognition · Deep learning
+<p>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/></a>
+<a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/></a>
+</p>
 
-**Web & Backend Engineering**  
-React · Next.js · Node.js · Express.js · Flask · Streamlit · Tailwind CSS · Vite · Socket.IO
+### Generative AI & NLP
 
-**Databases & APIs**  
-PostgreSQL · MongoDB · MySQL · SQLite · Prisma · REST APIs · JWT
+<p>
+<img src="https://img.shields.io/badge/LLM_Applications-202020?style=for-the-badge" alt="LLM applications"/>
+<img src="https://img.shields.io/badge/RAG-176B55?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Transformers-8A63D2?style=for-the-badge" alt="Transformers"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" alt="YOLO"/>
+</p>
 
-**Tools & Deployment**  
-Git · GitHub · GitHub Actions · Docker · Vercel · Postman · Swagger · Anaconda
+### Web & Backend Development
 
-## GitHub Activity
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind,vite,threejs&theme=dark" alt="Web development technologies"/>
+</p>
 
-<div align="center">
+### Databases, Infrastructure & Tools
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushrajcodes0407&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,prisma,docker,git,github,githubactions,vercel,vscode,figma&theme=dark" alt="Databases and developer tools"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrajcodes0407&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used programming languages" />
+---
 
-<br/>
+## Professional Interests
 
-<img src="https://streak-stats.demolab.com/?user=ayushrajcodes0407&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+I'm interested in roles and collaborations involving:
 
-</div>
+- AI/ML Engineering
+- Applied Machine Learning Research
+- Generative AI and LLM Applications
+- NLP and Computer Vision
+- Data Science and Intelligent Analytics
+- AI Product Engineering
 
-## Beyond the Code
-
-I enjoy exploring new ideas, experimenting with emerging AI techniques, and building projects that bring research closer to practical use.
-
-I'm especially interested in collaborating with people who care about solving meaningful problems, sharing knowledge, and building things thoughtfully.
+I value good documentation, reproducible experiments, clean code, and honest reporting of model performance.
 
 ## Connect With Me
 
 <div align="center">
 
-<a href="https://ayush-raj-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-64DDA0?style=for-the-badge&logo=vercel&logoColor=101418" alt="Portfolio" /></a>
-<a href="https://github.com/ayushrajcodes0407"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ayushraj-tech/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ayushrajcodes0407@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-BB4B45?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://ayush-raj-portfolio-website.vercel.app/">
+  <img src="https://img.shields.io/badge/Personal_Portfolio-Explore_My_Work-64DDA0?style=for-the-badge&logo=vercel&logoColor=101418" alt="Personal portfolio"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/ayushrajcodes0407">
+  <img src="https://img.shields.io/badge/GitHub-View_Projects-202020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
+</a>
 
-*Building thoughtfully. Researching carefully. Shipping useful things.*
+<a href="https://www.linkedin.com/in/ayushraj-tech/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=ayushrajcodes0407&label=Profile%20Views&color=64DDA0&style=flat" alt="Profile views" />
+<a href="mailto:ayushrajcodes0407@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_In_Touch-BB4B45?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
