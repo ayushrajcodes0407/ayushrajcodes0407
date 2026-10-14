@@ -1,9 +1,10 @@
-
 <div align="center">
 
-# AYUSH RAJ
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=1000&color=64DDA0&center=true&vCenter=true&repeat=false&width=600&height=60&lines=AYUSH+RAJ" alt="Ayush Raj"/>
 
-### AI/ML Engineer | Researcher | Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=64DDA0&center=true&vCenter=true&width=750&height=40&lines=AI%2FML+Engineer+%7C+Researcher+%7C+Software+Developer;Building+practical+AI+applications;Researching+Machine+Learning+and+NLP;Exploring+LLMs%2C+RAG+and+Computer+Vision" alt="Animated professional introduction"/>
+
+<br/>
 
 <a href="https://ayush-raj-portfolio-website.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-64DDA0?style=for-the-badge&logo=vercel&logoColor=101418" alt="Portfolio"/>
@@ -20,19 +21,15 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=64DDA0&center=true&vCenter=true&width=750&height=55&lines=Building+practical+AI+applications;Researching+machine+learning+and+NLP;Exploring+LLMs%2C+RAG+and+computer+vision;Turning+ideas+into+working+software" alt="Animated introduction"/>
-
-<br/>
-
 **Computer Science & Engineering | BIT Mesra**
 
 </div>
 
 ---
 
-## About Me
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=64DDA0&width=350&height=35&lines=About+Me" alt="About Me"/>
 
-I'm a Computer Science and Engineering student at **BIT Mesra**, interested in building useful AI systems and understanding how they work beyond the prototype.
+I'm a computer science and engineering student at **BIT Mesra**, interested in building useful AI systems and understanding how they work beyond the prototype.
 
 My work spans machine learning, computer vision, natural language processing, generative AI, data science, and full-stack development. I enjoy combining research with engineering to turn technical ideas into applications people can actually use.
 
@@ -47,7 +44,9 @@ I'm particularly interested in:
 
 I'm always interested in thoughtful collaborations, challenging engineering problems, and opportunities to learn from people working on meaningful technology.
 
-## Research Experience
+---
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=64DDA0&width=430&height=35&lines=Research+Experience" alt="Research Experience"/>
 
 ### Research Intern | Norwegian University of Science and Technology (NTNU), Norway
 
@@ -56,15 +55,18 @@ I'm always interested in thoughtful collaborations, challenging engineering prob
 Worked under the supervision of **Dr. Alok Mishra**, Professor of Data Management and Software Engineering, on research involving AI, natural language processing, and risk-aware transformer-based screening.
 
 **Research focus:**
+
 - Transformer-based NLP
 - Risk-aware machine learning
-- Early screening from social-media text
+- Early screening from social media text
 - Mental-health classification research
 - Experimental evaluation of AI models
 
 This experience strengthened my interest in research-oriented machine learning and the development of responsible, carefully evaluated AI systems.
 
-## Research & Upcoming Conference Paper
+---
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=64DDA0&width=560&height=35&lines=Research+%26+Conference+Work" alt="Research and Conference Work"/>
 
 ### A Two-Stage, Risk-Aware Transformer Framework for Early Screening of Mental-Health Conditions and Suicidal Ideation in Social-Media Text
 
@@ -98,7 +100,7 @@ An ongoing research framework investigating hierarchical and risk-aware transfor
 
 ---
 
-## Featured Projects
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=64DDA0&width=350&height=35&lines=Featured+Projects" alt="Featured Projects"/>
 
 <table>
 <tr>
@@ -108,7 +110,7 @@ An ongoing research framework investigating hierarchical and risk-aware transfor
 
 A research-driven AI framework exploring contextual reasoning and retrieval-based knowledge for loan approval decision support.
 
-**Technologies:** Python, machine learning, RAG
+**Technologies:** Python, Machine Learning, RAG
 
 </td>
 <td width="50%" valign="top">
@@ -123,6 +125,7 @@ An AI-powered data analysis and quality platform for dataset profiling, explorat
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -145,11 +148,11 @@ A research framework investigating risk-aware transformer models for multi-class
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
+---
 
-## Technical Skills
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=64DDA0&width=350&height=35&lines=Technical+Skills" alt="Technical Skills"/>
 
 ### Programming Languages
 
@@ -162,7 +165,7 @@ A research framework investigating risk-aware transformer models for multi-class
 <p>
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/></a>
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
@@ -183,18 +186,28 @@ A research framework investigating risk-aware transformer models for multi-class
 ### Web & Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind,vite,threejs&theme=dark" alt="Web development technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&theme=dark" alt="Web development technologies"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
 </p>
 
 ### Databases, Infrastructure & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,prisma,docker,git,github,githubactions,vercel,vscode,figma&theme=dark" alt="Databases and developer tools"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,docker,git,github,vercel,vscode,figma&theme=dark" alt="Databases and developer tools"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
 ---
 
-## Professional Interests
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=64DDA0&width=410&height=35&lines=Professional+Interests" alt="Professional Interests"/>
 
 I'm interested in roles and collaborations involving:
 
@@ -207,22 +220,21 @@ I'm interested in roles and collaborations involving:
 
 I value good documentation, reproducible experiments, clean code, and honest reporting of model performance.
 
-## Connect With Me
+---
 
 <div align="center">
 
-<a href="https://ayush-raj-portfolio-website.vercel.app/">
-  <img src="https://img.shields.io/badge/Personal_Portfolio-Explore_My_Work-64DDA0?style=for-the-badge&logo=vercel&logoColor=101418" alt="Personal portfolio"/>
-</a>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=64DDA0&center=true&vCenter=true&width=350&height=35&lines=Connect+With+Me" alt="Connect With Me"/>
 
+<a href="https://ayush-raj-portfolio-website.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-64DDA0?style=for-the-badge&logo=vercel&logoColor=101418" alt="Personal portfolio"/>
+</a>
 <a href="https://github.com/ayushrajcodes0407">
   <img src="https://img.shields.io/badge/GitHub-View_Projects-202020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
 </a>
-
 <a href="https://www.linkedin.com/in/ayushraj-tech/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:ayushrajcodes0407@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get_In_Touch-BB4B45?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
