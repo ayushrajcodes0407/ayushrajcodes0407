@@ -148,28 +148,6 @@ A research framework investigating risk-aware transformer models for multi-class
 <tr>
 <td width="50%" valign="top">
 
-### BE11 | Sports Technology Platform
-
-A full-stack platform for venue discovery and booking, real-time match experiences, live scoring, 3D jersey customization, vendor onboarding, and payment workflows.
-
-<a href="https://github.com/ayushrajcodes0407/be11">View Repository →</a>
-
-**Technologies:** React, TypeScript, Node.js, PostgreSQL, Prisma, Socket.IO, Razorpay
-
-</td>
-<td width="50%" valign="top">
-
-### Vision-Based PPE Compliance
-
-A computer-vision system developed during my BCCL internship to detect personal protective equipment in industrial environments using YOLO-based object detection.
-
-**Technologies:** Python, YOLO, OpenCV, Flask
-
-</td>
-</tr>
-</table>
-
----
 
 ## Technical Skills
 
